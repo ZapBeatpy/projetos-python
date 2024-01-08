@@ -1,6 +1,4 @@
-usuario = "victor"
-senha = "61613172"
-database = {usuario: senha}
+database = {}
 notas = {}
 menu_inicio = ["Bloco de Notas", "Calculadora", "Data e Hora", "Mudar Nome/Senha", "Advinha", "sair"]
 
