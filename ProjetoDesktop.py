@@ -3,8 +3,6 @@ from tzlocal import get_localzone
 import json
 from time import sleep
 
-usuario = "victor"
-senha = "61613172"
 #listas e bancos de dados:
 database = {usuario: senha}
 notas = {}
